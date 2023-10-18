@@ -4,4 +4,3 @@ import time
 time.sleep(5)
 print(f"Hello World!, the time is {time.time()}")
 time.sleep(5)
-import time
