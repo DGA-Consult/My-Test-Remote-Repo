@@ -1,1 +1,1 @@
-print("Python is a lot of fun")
+print("Python is a lot of fun yeah right")
